@@ -1,4 +1,4 @@
-# Aggregate-Planning
+# Aggregate Planning
 
 A study explaining the problems faced in areas of aggregate planning and demand analysis in an
 installation elevator company which results in huge delivery delays and so having a high impact
